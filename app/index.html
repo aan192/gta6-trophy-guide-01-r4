@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GTA VI Trophy Guide & 100% Checklist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <div class="header-content">
+        <h1>GTA VI Trophy Guide</h1>
+        <p class="pitch">The Ultimate 100% Completion Companion & Checklist</p>
+      </div>
+      <div class="progress-box">
+        <div class="progress-stats">
+          <span id="earned-count">0 / 55</span>
+          <span id="progress-pct">0%</span>
+        </div>
+        <div class="progress-bar-bg">
+          <div id="progress-bar-fill" class="progress-bar-fill"></div>
+        </div>
+      </div>
+    </header>
+
+    <nav class="nav-tabs">
+      <button class="nav-tab active" data-view="checklist">Checklist</button>
+      <button class="nav-tab" data-view="guide">Guide Hub</button>
+      <button class="nav-tab" data-view="roadmap">Roadmap</button>
+      <button class="nav-tab" data-view="missables">Missables <span id="missables-badge" class="badge">1</span></button>
+      <button id="reset-btn" class="reset-btn" title="Reset all progress">Reset Progress</button>
+    </nav>
+
+    <main class="main-content">
+      <!-- CHECKLIST VIEW -->
+      <section id="view-checklist" class="view-section active">
+        <div class="view-intro">
+          <h2>Trophy Checklist</h2>
+          <p>Check off trophies as you earn them on PlayStation 5. Progress is saved automatically. Click any trophy to view detailed PowerPyx &amp; Exophase guide walkthroughs.</p>
+        </div>
+        <div id="checklist-container"></div>
+      </section>
+
+      <!-- GUIDE HUB VIEW -->
+      <section id="view-guide" class="view-section">
+        <div class="view-intro">
+          <h2>Guide Hub</h2>
+          <p>Search trophies, filter by tier or missable status, and explore expert strategies.</p>
+        </div>
+        <div class="filter-bar">
+          <input type="text" id="search-input" placeholder="Search trophies or guides...">
+          <select id="tier-filter">
+            <option value="all">All Tiers</option>
+            <option value="Platinum">Platinum</option>
+            <option value="Gold">Gold</option>
+            <option value="Silver">Silver</option>
+            <option value="Bronze">Bronze</option>
+          </select>
+          <label class="checkbox-label">
+            <input type="checkbox" id="missable-filter"> Missable Only
+          </label>
+        </div>
+        <div id="guide-cards-container" class="cards-grid"></div>
+      </section>
+
+      <!-- ROADMAP VIEW -->
+      <section id="view-roadmap" class="view-section">
+        <div class="view-intro">
+          <h2>100% Roadmap</h2>
+          <p>Follow this structured 4-phase plan to efficiently reach the Platinum trophy in Grand Theft Auto VI.</p>
+        </div>
+        <div id="roadmap-container" class="roadmap-timeline"></div>
+      </section>
+
+      <!-- MISSABLES VIEW -->
+      <section id="view-missables" class="view-section">
+        <div class="view-intro">
+          <h2>Missable Trophies Warning</h2>
+          <p>Pay close attention to these trophies! They can be permanently missed if you progress past the point of no return without completing them.</p>
+        </div>
+        <div id="missables-container" class="cards-grid"></div>
+      </section>
+    </main>
+
+    <!-- TROPHY DETAIL MODAL -->
+    <div id="trophy-modal" class="modal">
+      <div class="modal-content">
+        <button id="modal-close" class="modal-close">&times;</button>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

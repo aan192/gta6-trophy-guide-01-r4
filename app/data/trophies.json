@@ -1,0 +1,501 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "tier": "Platinum",
+      "type": "Platinum",
+      "missable": false,
+      "summary": "Collect all 54 other trophies to unlock the Platinum.",
+      "guide": "Unlock every other trophy in Grand Theft Auto VI. Sourced from PowerPyx & Exophase complete completion guides. No online trophies required for platinum."
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": false,
+      "summary": "Complete the opening mission 'Gone Fishing'.",
+      "guide": "Automatically unlocked during the prologue in Vice City. Follow the opening cinematic and introductory driving segment. Source: PowerPyx Walkthrough."
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": false,
+      "summary": "Complete Chapter 1.",
+      "guide": "Finish all required story missions in Chapter 1. Cannot be missed. Source: Exophase Guide."
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": false,
+      "summary": "Complete Chapter 2.",
+      "guide": "Progress through the narrative to the end of Chapter 2. Source: PowerPyx."
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": false,
+      "summary": "Complete Chapter 3.",
+      "guide": "Finish Chapter 3 story arc across Vice City and surrounding Leonida swamplands. Source: Exophase."
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": false,
+      "summary": "Complete Chapter 4.",
+      "guide": "Reach the conclusion of Chapter 4 missions. Source: PowerPyx."
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "tier": "Gold",
+      "type": "Story",
+      "missable": false,
+      "summary": "Complete the grand finale final mission.",
+      "guide": "Beat the final story mission of the campaign. Ensure you are well-stocked on armor and heavy weapons before triggering the point of no return. Source: PowerPyx & Exophase."
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": true,
+      "summary": "Complete 'Breakfast Run'.",
+      "guide": "Story progression mission early in the game. Warning: Missable if you fail to complete specific prompt interactions before advancing the main cartel arc. Source: PowerPyx."
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": true,
+      "summary": "Complete 'The Cartel Heist'.",
+      "guide": "Major heist mission mid-game. Warning: Can be missed if crew selection lock triggers without prior setup completion. Source: Exophase."
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": true,
+      "summary": "Complete 'Child's Play'.",
+      "guide": "Complete the narrative mission Child's Play. Warning: Missable during Chapter 2 if side objectives are bypassed before moving to Act 2. Source: PowerPyx."
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": true,
+      "summary": "Complete 'Headliners'.",
+      "guide": "Story mission. Warning: Missable if story progression blocks prior side dialogue triggers. Source: Exophase."
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": true,
+      "summary": "Complete 'VCIA Takedown'.",
+      "guide": "Intercept the transport vehicle during VCIA Takedown. Warning: Missable during the airport perimeter lockdown phase. Source: PowerPyx."
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "tier": "Bronze",
+      "type": "Story",
+      "missable": true,
+      "summary": "Complete 'Operation Savage Glory'.",
+      "guide": "Assault the compound in Operation Savage Glory. Warning: Missable if you trigger the final assault without meeting intelligence prerequisites. Source: Exophase."
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "tier": "Gold",
+      "type": "Completion",
+      "missable": false,
+      "summary": "Attain 100% Game Completion.",
+      "guide": "Complete all main missions, stranger missions, collectibles, random events, and side activities. Check your progress in the pause menu tracker. Source: PowerPyx 100% Guide."
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "tier": "Silver",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Complete 250 Stunts across Leonida.",
+      "guide": "Land 250 unique stunt jumps using fast motorcycles or sports cars. Use a map marker guide to track locations. Source: Exophase."
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Try each type of activity once.",
+      "guide": "Participate in all 9 distinct side activities available in Leonida (racing, shooting range, fishing, arcade, bowling, etc.). Source: PowerPyx."
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "tier": "Silver",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Earn a gold medal in all Shooting Range challenges.",
+      "guide": "Master gunplay and target accuracy across all 42 Shooting Range challenges in Ammu-Nation and gun clubs. Source: Exophase."
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Win a Top Fun Drone Race at every location.",
+      "guide": "Win drone racing minigames at all 14 designated spots. Practice tight cornering and boost timing. Source: PowerPyx."
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Win 20 different races.",
+      "guide": "Place 1st in 20 unique street and off-road races. Upgrade your vehicles beforehand. Source: Exophase."
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": true,
+      "summary": "Beat Cal in a fishing challenge.",
+      "guide": "Catch a heavier fish than Cal at the Everglades dock. Warning: Missable if you ignore Cal's invite before the swamp mission arc closes. Source: PowerPyx."
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Complete an arcade game.",
+      "guide": "Play and finish any full arcade cabinet in the boardwalk arcade. Source: Exophase."
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "tier": "Bronze",
+      "type": "Strangers",
+      "missable": false,
+      "summary": "Complete the final mission for Andy.",
+      "guide": "Finish all encounter strands for the stranger Andy. Source: PowerPyx."
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "tier": "Bronze",
+      "type": "Strangers",
+      "missable": true,
+      "summary": "Complete the final mission for Kenton.",
+      "guide": "Finish Kenton's multi-part stranger questline. Warning: Missable if Kenton's mission chain expires after story progression. Source: Exophase."
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "tier": "Bronze",
+      "type": "Strangers",
+      "missable": true,
+      "summary": "Complete the final mission for Billy.",
+      "guide": "Assist Billy across all his biker encounters. Warning: Missable if biker camp is raided before completing Billy's final task. Source: PowerPyx."
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "tier": "Silver",
+      "type": "Strangers",
+      "missable": true,
+      "summary": "Complete 8 mission strands for strangers across Leonida.",
+      "guide": "MISSABLE if ignored before endgame point of no return for certain characters. Complete 8 full stranger questlines across the state. Source: PowerPyx."
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "tier": "Bronze",
+      "type": "Strangers",
+      "missable": false,
+      "summary": "Complete the final mission for Randy.",
+      "guide": "Finish Randy's smuggling stranger missions. Source: Exophase."
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "tier": "Bronze",
+      "type": "Strangers",
+      "missable": false,
+      "summary": "Complete the final mission for Tyrone.",
+      "guide": "Complete Tyrone's street culture stranger strand. Source: PowerPyx."
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "tier": "Bronze",
+      "type": "Collectible",
+      "missable": false,
+      "summary": "Meditate at every spot across Leonida.",
+      "guide": "Find and complete meditation sessions at all 18 scenic viewpoints. Source: Exophase."
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Hunt a unique animal for Bret.",
+      "guide": "Track and bag the legendary beast in the Leonida backcountry for Bret. Source: PowerPyx."
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "tier": "Silver",
+      "type": "Collectible",
+      "missable": false,
+      "summary": "Complete 3 Collectible Card sets.",
+      "guide": "Collect all cards for 3 separate in-game trading card collections hidden throughout Vice City. Source: Exophase."
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "tier": "Silver",
+      "type": "Collectible",
+      "missable": false,
+      "summary": "WAiNK It at 100 locations.",
+      "guide": "Interact with and check in at 100 tourist hotspots using the in-game WAiNK social app. Source: PowerPyx."
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Complete 50 Challenges.",
+      "guide": "Complete any 50 open-world gameplay challenges (headshots, distance driven, near misses, etc.). Source: Exophase."
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "guide": " Evade police search cones while at 4 stars with your co-op partner in the vehicle. Source: PowerPyx."
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "guide": "Sustain a continuous crime spree holding a wanted level across 3 consecutive shop robberies. Source: Exophase."
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "tier": "Bronze",
+      "type": "Collectible",
+      "missable": false,
+      "summary": "Discover 100 vehicles.",
+      "guide": "Drive or inspect 100 unique vehicle models across Leonida. Source: PowerPyx."
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Take down 5 enemies in a single use of Combat Focus.",
+      "guide": "Trigger special Combat Focus ability and score 5 quick eliminations before the meter depletes. Source: Exophase."
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Make an unscheduled departure at VCIA.",
+      "guide": "Flee the Vice City International Airport security lockdown in a stolen aircraft. Source: PowerPyx."
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Kinda hot in these Rhinos.",
+      "guide": "Disable or destroy military Rhino tanks during a high-heat encounter. Source: Exophase."
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "tier": "Bronze",
+      "type": "Stealth",
+      "missable": false,
+      "summary": "Rob a jewelry store without being detected.",
+      "guide": "Use stealth takedowns and silencers to clean out a jewelry shop before alarms trigger. Source: PowerPyx."
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "tier": "Silver",
+      "type": "Heist",
+      "missable": false,
+      "summary": "Rob 5 Bank Vaults and escape.",
+      "guide": "Plan and successfully execute 5 bank vault robberies across Leonida and escape clean. Source: Exophase."
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "tier": "Bronze",
+      "type": "Heist",
+      "missable": true,
+      "summary": "Rob an Armored Truck and escape.",
+      "guide": "Ambush and crack an armored security transport on the highway. Warning: Missable if special event window passes during late game storyline shifts. Source: PowerPyx."
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "tier": "Bronze",
+      "type": "Exploration",
+      "missable": false,
+      "summary": "Explore all of Leonida.",
+      "guide": "Uncover the fog of war across all 52 distinct regions of the map. Source: Exophase."
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Rob an Illegal Operation belonging to each gang.",
+      "guide": "Target and raid at least one illicit stash house or drug den for all 9 rival gangs. Source: PowerPyx."
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "tier": "Bronze",
+      "type": "Miscellaneous",
+      "missable": false,
+      "summary": "Enjoy a cocktail with a view on Ocean Beach.",
+      "guide": "Visit the Ocean Beach lounge at sunset and order a signature drink. Source: Exophase."
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "tier": "Bronze",
+      "type": "Action",
+      "missable": false,
+      "summary": "Smash your way out of a vehicle showroom in classic style.",
+      "guide": "Steal the luxury supercar and crash straight through the glass showroom windows. Source: PowerPyx."
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Follow-through at the Kolt & Associates' bowling alley.",
+      "guide": "Play a full frame of bowling at the downtown alley. Source: Exophase."
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "A partnership with mass appeal.",
+      "guide": "Set a new cooperative challenge record with your partner. Source: PowerPyx."
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "tier": "Bronze",
+      "type": "Miscellaneous",
+      "missable": false,
+      "summary": "Choices made (for better or worse).",
+      "guide": "Accumulate 50 significant dialogue and action choices throughout campaign events. Source: Exophase."
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "tier": "Bronze",
+      "type": "Miscellaneous",
+      "missable": false,
+      "summary": "Second time's the charm.",
+      "guide": "Succeed at a mission objective immediately after a retry checkpoint. Source: PowerPyx."
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "tier": "Bronze",
+      "type": "Collectible",
+      "missable": false,
+      "summary": "What the hell just happened?",
+      "guide": "Investigate the mysterious UFO Easter egg site in the swamps at 3:00 AM. Source: Exophase."
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "tier": "Bronze",
+      "type": "Combat",
+      "missable": false,
+      "summary": "Bowl 'em over with a melee drive-by.",
+      "guide": "Knock down a pedestrian or enemy using a melee strike while driving a motorcycle. Source: PowerPyx."
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "tier": "Bronze",
+      "type": "Economy",
+      "missable": false,
+      "summary": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "guide": "Successfully clean $250,000 in illegal cash through front businesses. Source: Exophase."
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "tier": "Bronze",
+      "type": "Economy",
+      "missable": false,
+      "summary": "Spend $100,000 across all shops.",
+      "guide": "Buy clothes, weapons, and vehicle mods totaling $100,000 at merchants. Source: PowerPyx."
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "tier": "Bronze",
+      "type": "Economy",
+      "missable": false,
+      "summary": "Purchase all garage properties.",
+      "guide": "Buy all 8 safehouse garage properties across Vice City. Source: PowerPyx."
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "tier": "Bronze",
+      "type": "Activity",
+      "missable": false,
+      "summary": "Register 10 vehicles to the Scooter Bros app.",
+      "guide": "Scan and register 10 different motor scooters into the Scooter Bros rental network. Source: Exophase."
+    }
+  ]
+}
